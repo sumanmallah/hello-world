@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning Suman Sir ! </h1>
-   <h2> Will get it done by the end of his weekend anyhow </h2>
+   <h2> Small change to the index.jsp to check the automated build pipe </h2>
 
   
 </form>
