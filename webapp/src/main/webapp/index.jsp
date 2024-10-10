@@ -31,8 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Suman Sir ! </h1>
-   <h2> Yusuf abdeltaweb! </h2>
    <h1> Suman Mallah you are the boss</h1>
 
   
