@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> small change </h1>
+   <h1> docker images will be updated </h1>
 
   
 </form>
